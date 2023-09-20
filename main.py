@@ -3,7 +3,7 @@ import requests
 import matplotlib.pyplot as plt
 from networkx.algorithms import community
 
-token = 'vk1.a.eDKZtV3ZGDHVsdwDo0bT5EFWg_SXHHBKhOU9KqdThm5shCSbf-C4_D6To2V_G3NQLXTfAWYmsqFdJiZRwpZ0dvLSzofFwz8sBLEQj2Ccz1JrVgE4KpH5njJ8ES8a-y2ywsIHXz0SqC1N09pKgtEQuKdbUN3VK8lm8Lan1L_OQBkZp8BzAbBsjS-mUXRFYs8OQn6zwQBS6RQnp2TeiV7wjQ'
+token = '1234'
 
 # список др
 url = 'https://api.vk.com/method/friends.get'
